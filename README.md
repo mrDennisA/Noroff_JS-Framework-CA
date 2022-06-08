@@ -16,7 +16,7 @@ Course Assignment. Creating a new React app, with successful login request to an
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:mrDennisA/Noroff_Exam-Project-2.git
+git clone git@github.com:mrDennisA/Noroff_JS-Framework-CA.git
 ```
 
 2. Install the dependencies:
