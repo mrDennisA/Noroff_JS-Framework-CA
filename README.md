@@ -6,9 +6,7 @@ Course Assignment. Creating a new React app, with successful login request to an
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
-- [JavaScript](https://www.javascript.com/)
+- [React.js](https://reactjs.org/)
 - [Strapi.io](https://strapi.io/)
 
 ## Getting Started
@@ -18,13 +16,28 @@ You can list a the tech stack that you've used over here
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:mrDennisA/Noroff_Semester-Project-2.git
+git clone git@github.com:mrDennisA/Noroff_Exam-Project-2.git
 ```
 
 2. Install the dependencies:
 
-No installation og dependencies needed.
+```
+npm install
+```
 
+### Running
+
+Run development server
+
+```bash
+npm run start
+```
+
+Build
+
+```bash
+npm run Build
+```
 
 ## Contact
 
